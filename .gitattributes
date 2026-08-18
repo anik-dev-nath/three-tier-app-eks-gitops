@@ -1,0 +1,5 @@
+*.sh text eol=if
+*.png binary
+docs/** linguist-documentation
+k8s/** linguist-language=YAML
+vendor/** linguist-vendored
